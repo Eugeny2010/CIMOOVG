@@ -8,7 +8,7 @@
         "fill": "#b8f4ff",
         "stroke": "#001cf0",
         "tags": [
-          "af"
+          "ООВГ"
         ]
       },
       "geometry": {
@@ -1627,7 +1627,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Radis",
-        "type": "capital-city"
+        "type": "capital"
       },
       "geometry": {
         "type": "Point",
@@ -1645,7 +1645,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Vitsk",
-        "type": "capital-city"
+        "type": "city"
       },
       "geometry": {
         "type": "Point",

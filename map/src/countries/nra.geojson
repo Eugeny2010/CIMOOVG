@@ -2406,7 +2406,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Vitsk",
-        "type": "capital-city"
+        "type": "city"
       },
       "geometry": {
         "type": "Point",
@@ -2414,7 +2414,8 @@
           49.468345642089844,
           -17.58053945311978
         ]
-      }
+      },
+      "id": 55
     },
     {
       "type": "Feature",
@@ -2423,7 +2424,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Radis",
-        "type": "capital-city"
+        "type": "capital"
       },
       "geometry": {
         "type": "Point",
@@ -2431,7 +2432,8 @@
           47.710533142089844,
           -15.872020734333898
         ]
-      }
+      },
+      "id": 56
     },
     {
       "type": "Feature",
