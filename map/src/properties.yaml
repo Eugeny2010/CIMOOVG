@@ -9,3 +9,8 @@ ens:
   stroke: "#001cf0"
   tags:
     - ООВГ
+voleria:
+  fill: "#001eff"
+  stroke: "##2b00ff"
+  tags:
+    - ООВГ
