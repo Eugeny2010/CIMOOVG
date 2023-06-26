@@ -4,3 +4,8 @@ nra:
   stroke: "#001cf0"
   tags:
     - ООВГ
+ens:
+  fill: "#b8f4ff"
+  stroke: "#001cf0"
+  tags:
+    - ООВГ
